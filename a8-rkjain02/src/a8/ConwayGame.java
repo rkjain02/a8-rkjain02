@@ -16,3 +16,4 @@ public class ConwayGame {
 		theView.setVisible(true);	
 	} 
 }
+ 

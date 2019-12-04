@@ -22,7 +22,7 @@ public interface Spot {
 	boolean isHighlighted();
 	void highlightSpot();
 	void unhighlightSpot();
-	default void toggleHighlight() {
+	default void toggleHighlight() { 
 		if (isHighlighted()) {
 			unhighlightSpot();
 		} else {

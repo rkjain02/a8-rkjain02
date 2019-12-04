@@ -33,7 +33,7 @@ public class JSpot extends JPanel implements MouseListener, Spot {
 	private Color _highlight_color;
 
 	private boolean _is_empty;
-	private boolean _is_highlighted;
+	private boolean _is_highlighted; 
 	private SpotBoard _board;
 	private int _x;
 	private int _y;

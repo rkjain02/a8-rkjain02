@@ -31,7 +31,7 @@ public class ConwayGameView extends JFrame{
 	private JTextField birthThresholdMin;
 	private JTextField birthThresholdMax;
 	private JButton torusOn;
-	private JButton torusOff;
+	private JButton torusOff; 
 	
 	public ConwayGameView() {
 		

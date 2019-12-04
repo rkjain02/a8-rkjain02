@@ -646,7 +646,7 @@ public class ConwayGameController {
 							}
 						}
 					}
-					
+			 		
 					else {
 						if(theModel.torusBoard.getSpotAt(s.getSpotX()-1, s.getSpotY()-1).getBackground().equals(Color.BLACK)) {
 							liveCells++;

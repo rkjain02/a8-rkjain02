@@ -17,3 +17,4 @@ public interface SpotBoard extends Iterable<Spot> {
 
 	Iterator<Spot> iterator();
 }
+ 

@@ -6,3 +6,4 @@ public interface SpotListener {
 	void spotEntered(Spot spot);
 	void spotExited(Spot spot);
 }
+ 

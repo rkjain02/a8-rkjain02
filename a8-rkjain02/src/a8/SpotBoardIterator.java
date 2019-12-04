@@ -18,7 +18,7 @@ public class SpotBoardIterator implements Iterator<Spot> {
 	@Override
 	public boolean hasNext() {
 		return (_y < _board.getSpotHeight());
-	}
+	} 
 
 	@Override
 	public Spot next() {

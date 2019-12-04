@@ -30,7 +30,7 @@ public class JSpotBoard extends JPanel implements SpotBoard {
 	private static final Color DEFAULT_SPOT_COLOR = Color.BLACK;
 	private static final Color DEFAULT_HIGHLIGHT_COLOR = Color.YELLOW;
 
-	private Spot[][] _spots;
+	private Spot[][] _spots; 
 	
 	public JSpotBoard(int width, int height) {
 		if (width < 0 || height < 0 || width > 500 || height > 500) {

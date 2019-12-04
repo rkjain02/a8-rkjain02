@@ -21,7 +21,7 @@ public class ConwayGameModel {
 	public JSpotBoard torusBoard;
 	
 	public ConwayGameModel() {
-		torusCount = 0;
+		torusCount = 0; 
 	}
 	
 	public JSpotBoard getBoard() {
