@@ -14,5 +14,5 @@ public class ConwayGame {
 		
 		theView.pack();
 		theView.setVisible(true);	
-	}
+	} 
 }
